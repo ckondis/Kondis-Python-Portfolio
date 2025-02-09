@@ -1,4 +1,4 @@
-##Basic Streamlit App
+#Basic Streamlit App
 
 - This app utilizes Python and Streamlit, which is an open-source Python framework that transforms Python scripts into interactive data apps.
 - Specifically, this Streamlit app shows data from a CSV file with information about dog breeds. The CSV file can be found in the data folder of this basic_streamlit_app folder.
