@@ -19,12 +19,15 @@ In this project, I analyzed spending patterns and trends of the U.S. federal gov
 🏗 **2. Install Required Packages**
 Ensure you have the following Python packages installed: pandas, matplotlib.pyplot, and seaborn 
 
+<img width="452" alt="Screenshot 2025-03-17 at 9 03 07 PM" src="https://github.com/user-attachments/assets/eeb04080-f537-4602-b2d9-3b277279f6e5" />
+
 Run the import lines in the first section of the notebook or manually install them via VS Code Extensions.
 
 📂 **3. Upload the Dataset**
 Place the CSV file in a location accessible by VS Code or Jupyter Notebook.
-Verify the dataset is correctly loaded by running:
-df.head()
+Verify the dataset is correctly loaded by running df.head(), it should look like the image below:
+
+<img width="703" alt="Screenshot 2025-03-17 at 9 03 23 PM" src="https://github.com/user-attachments/assets/6b1600ce-8ef7-4fe3-b858-16f15e56351a" />
 
 ▶️ **4. Run the Notebook**
 If packages are installed and df.head() displays the data correctly, proceed by executing all cells in order.
