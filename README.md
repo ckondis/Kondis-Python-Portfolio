@@ -27,6 +27,7 @@
 
 **💡 Portfolio Connection:**
   - Showcases proficiency in tidy data principles, strucutring and manipulating DataFrames, analyzing data sets for trends/research purposes, and presenting insights through meaningful and effective visualizations.
+  - Shows continual growth of Python skills and creative analysis of data sets
 
 ---
 📢 **Portfolio Update:** Both projects outlined above are completed and accessible for users to explore 
