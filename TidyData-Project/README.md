@@ -14,7 +14,7 @@ In this project, I analyzed spending patterns and trends of the U.S. federal gov
 ## ⚙️ Project Setup Instructions:
 
 🛠 **1. Open the Project**
-📂 Locate the Tidy Data Project folder on GitHub and open the Jupyter Notebook labeled "Tidy Data Project".
+Locate the Tidy Data Project folder on GitHub and open the Jupyter Notebook labeled "Tidy Data Project".
 
 🏗 **2. Install Required Packages**
 Ensure you have the following Python packages installed: pandas, matplotlib.pyplot, and seaborn 
@@ -32,6 +32,16 @@ Verify the dataset is correctly loaded by running df.head(), it should look like
 ▶️ **4. Run the Notebook**
 If packages are installed and df.head() displays the data correctly, proceed by executing all cells in order.
 Code cells will output results, while Markdown cells provide explanations.
+
+**Markdown Cell Example:**
+
+<img width="1196" alt="Screenshot 2025-03-17 at 9 49 04 PM" src="https://github.com/user-attachments/assets/9fbd8b2f-2bb3-4a41-ac04-40af8d8fc7b2" />
+
+
+**Code Cell Output:**
+
+<img width="275" alt="Screenshot 2025-03-17 at 9 49 23 PM" src="https://github.com/user-attachments/assets/b8523de4-7842-4ab7-9c0d-acc014330257" />
+
 
 ---
 ## 📜 Dataset Description:
