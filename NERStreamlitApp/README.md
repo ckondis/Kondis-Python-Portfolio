@@ -1,20 +1,20 @@
-🔍 Custom Named Entity Recognition with spaCy and Streamlit
+# 🔍 Custom Named Entity Recognition with Streamlit and spaCy
 
-🧠 Project Overview
+## 🧠 Project Overview
 This Streamlit app is an interactive tool designed to explore Named Entity Recognition (NER) using the spaCy library. It allows users to process text and identify named entities using spaCy's pre-trained models and define their own custom entity rules using pattern matching. Whether you're experimenting with NLP or customizing entity detection for domain-specific use cases (like brands, product types, or locations), this app provides a powerful and intuitive platform to get started.
 
-🤖 What is spaCy NER?
+## 🤖 What is spaCy NER?
 spaCy is a popular Python library for Natural Language Processing. Its NER pipeline can detect entities like:
 
-People (PERSON)
+- People (PERSON)
 
-Organizations (ORG)
+- Organizations (ORG)
 
-Locations (GPE, LOC)
+- Locations (GPE, LOC)
 
-Dates and Times (DATE, TIME)
+- Dates and Times (DATE, TIME)
 
-Money, Products, and more
+- Money, Products, and more
 
 This app enhances the built-in NER pipeline by letting you define custom rules via spaCy's EntityRuler. You can target specific words or phrases and assign them a custom label, such as:
 
@@ -25,7 +25,7 @@ Label: PLANT
 Patterns: rose, tulip, oak tree
 These will then be recognized and highlighted alongside spaCy’s standard NER output.
 
-🚀 How to Run the App Locally
+## 🚀 How to Run the App Locally
 Clone the Repository:
 
 bash
@@ -35,7 +35,7 @@ git clone https://github.com/your-username/custom-ner-spacy-app.git
 cd custom-ner-spacy-app
 Install Required Libraries:
 
-Make sure you're using Python 3.8 or later. Then install the dependencies:
+### Make sure you're using Python 3.8 or later. Then install the dependencies:
 
 bash
 Copy
@@ -56,28 +56,28 @@ Edit
 streamlit run app.py
 Open the app in your browser at http://localhost:8501.
 
-🌐 Deployed Version
+# 🌐 Deployed Version
 You can try the app live here:
 👉 Live App on Streamlit Share
 
-✨ Features
+### ✨ Features
 📄 Upload Text: Upload your own .txt files or use provided sample text.
 
 🛠️ Define Custom Entities: Enter a label, description, and patterns (comma-separated) to define custom rules.
 
-📊 NER Analysis:
+### 📊 NER Analysis:
 
 Displays detected named entities from both spaCy's model and your custom rules.
 
 Explains each entity label with a description.
 
-🎨 Highlighted Text Output:
+### 🎨 Highlighted Text Output:
 
 Entities are highlighted with different colors for better readability.
 
 Custom entities use a distinctive orange background.
 
-💡 Example Usage
+## 💡 Example Usage
 Here’s how you might define a custom rule:
 
 Label: ELECTRONICS
@@ -92,5 +92,5 @@ When analyzing a sentence like:
 
 These terms will be highlighted as ELECTRONICS.
 
-📚 References
+## 📚 References
 Add tutorials, guides, or research articles you referenced here.
