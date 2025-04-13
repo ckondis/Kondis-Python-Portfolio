@@ -29,6 +29,17 @@
   - Showcases proficiency in tidy data principles, strucutring and manipulating DataFrames, analyzing data sets for trends/research purposes, and presenting insights through meaningful and effective visualizations.
   - Shows continual growth of Python skills and creative analysis of data sets
 
+**NER spaCy App:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/NERStreamlitApp
+
+**🔍 Purpose:**
+- This app explores spaCy's Named Entity Recognition (NER) and how spaCy processes and identities entities like people, organizations, and dates using a pre-trained NLP pipeline.
+- The user can create custom entity rules by specifying labels and matching patterns which is ideal for domain-specific terms like product names, roles, or topics.
+- The app allows for users to upload or input text and the app visualizes entities, highlighting by entity type, combining both built-in and custom NER results in an intuitive, color-coded format.
+
+**💡 Portfolio Connection:**
+- Highlights experience in building interactive NLP tools with Streamlit, integrating libraries like spaCy and Pandas to create user-focused applications.
+- Reflects growth in Python programming, especially data manipulation, natural language processing, and using apps to communicate insights effectively in real-world scenarios.
+
 ---
-📢 **Portfolio Update:** Both projects outlined above are completed and accessible for users to explore 
+📢 **Portfolio Update:** All projects outlined above are completed and accessible for users to explore!
 
