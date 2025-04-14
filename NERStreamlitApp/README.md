@@ -51,7 +51,8 @@ Make sure you see no errors in the output of these lines before continuing on wi
 
 ## 🌐 Deployed Version
 You can try the app live here:
-👉 Live App 
+
+👉 Live App: https://kondis-python-portfolio-ner.streamlit.app
 
 ## ✨ App Features
 
