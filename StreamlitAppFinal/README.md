@@ -58,14 +58,14 @@ Users can interact with the app through several customizable inputs:
 
 <img width="302" alt="Screenshot 2025-05-07 at 9 51 44 AM" src="https://github.com/user-attachments/assets/15505f55-8101-46f7-bdd5-928c5717761d" />
 
-### 🛠️ Main Functions
+### 🛠️ Main Functions:
 - Real-time data filtering based on user inputs.
 - Dynamic visualizations that respond to selections in state, metro, and timeframe.
 - Educational content embedded within each tab to provide context and support informed analysis.
 - Persistent notes system to help users retain key insights and observations as they navigate through the app.
 - Sections Included: Median List Price Over Time, Zillow Home Value Index (ZHVI), Home Value Growth Rate, Sale-to-List Price Ratio, Market Heat Index, New Homeowner Income Comparison, and Demographic Overview
 
-### 📊 Outputs
+### 📊 Outputs:
 Each section generates a visualization or KPI (Key Performance Indicator) card, allowing for clear and actionable insights:
 - Line charts, bar graphs, and data tables visualize housing trends over time.
 - KPI cards summarize current values, growth rates, or comparisons for quick interpretation.
