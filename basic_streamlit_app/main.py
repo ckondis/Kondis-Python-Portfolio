@@ -7,7 +7,7 @@ st.text("This app presents a data frame of the Dogs dataset, found in the data f
 
 st.header("Now, let's look at different types of dogs!") #Displays header
 
-df = pd.read_csv("data/dogs_dataset.csv") # Reads in CSV file from the data/ folder, stores in a dataframe
+df = pd.read_csv("basic_streamlit_app/data/dogs_dataset.csv") # Reads in CSV file from the data/ folder, stores in a dataframe
 
 st.subheader("Here's the dataset loaded from a CSV file:")
 st.dataframe(df) #Displays dataset as an interactive table 
