@@ -3,13 +3,14 @@
 ## 📌 Portfolio Goals:
 
 - Showcases significant Python projects that display technical skills, data analysis, and creative abilities.
-
+- This portfolio showcases how I use coding skills and data-driven projects to explore my interests and passions - transforming research into accessible, interactive tools for others to learn from and engage with.
 - Projects are organized by different computing techniques and research topics. Each project folder includes the data files, the python/jupyter notebook, and an indivdual README file outlining the projects' purpose in detail. 
 
 ---
 ## 📈 Current Projects: 
 
-**Streamlit App:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/basic_streamlit_app
+## Introductory Streamlit App:
+**Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/basic_streamlit_app
 
 **🔍 Purpose:**
 - This project uses Python and Streamlit, an open-source framework that turns Python scripts into interactive data apps. This project utilizes data from an CSV file containing information on dog breeds.
@@ -18,7 +19,8 @@
 **💡 Portfolio Connection:**
 - Demonstrates knowledge in Streamlit app building, creating interactive data tables and filters, and developing user-friendly online applications using Python technical skills. 
 
-**Tidy Data Project:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/TidyData-Project
+## Tidy Data Project:
+**Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/TidyData-Project
 
 **🔍 Purpose:**
 - Analyzed U.S. federal spending across 14 agencies (1976-2017) to identify patterns and trends.
@@ -29,7 +31,8 @@
   - Showcases proficiency in tidy data principles, strucutring and manipulating DataFrames, analyzing data sets for trends/research purposes, and presenting insights through meaningful and effective visualizations.
   - Shows continual growth of Python skills and creative analysis of data sets
 
-**NER spaCy App:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/NERStreamlitApp
+## NER spaCy App:
+**Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/NERStreamlitApp
 
 **🔍 Purpose:**
 - This app explores spaCy's Named Entity Recognition (NER) and how spaCy processes and identities entities like people, organizations, and dates using a pre-trained NLP pipeline.
@@ -40,6 +43,17 @@
 - Highlights experience in building interactive NLP tools with Streamlit, integrating libraries like spaCy and Pandas to create user-focused applications.
 - Reflects growth in Python programming, especially data manipulation, natural language processing, and using apps to communicate insights effectively in real-world scenarios.
 
+## Real Estate Investment Analyzer: Streamlit App
+**Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
+
+**🔍 Purpose:**
+- Provides an interactive platform to explore metro-level U.S. housing and demographic trends using Zillow and census data.
+- Helps users identify investment opportunities, compare markets, and interpret real estate indicators visually and intuitively.
+- Simplifies complex real estate analysis through educational insights, dynamic charts, and custom filtering tools.
+
+**💡 Portfolio Connection:**
+- Demonstrates advanced Python skills by integrating data analysis, interactive visualizations, and real estate concepts into a deployed app.
+- Builds on previous projects by evolving from static data analysis to user-centered tools for real-world decision-making.
 ---
 📢 **Portfolio Update:** All projects outlined above are completed and accessible for users to explore!
 
