@@ -47,6 +47,7 @@
 **Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
 
 **🔍 Purpose:**
+- An interactive app that visualizes housing and demographic trends across U.S. metro areas to support real estate investment analysis and market comparison.
 - Provides an interactive platform to explore metro-level U.S. housing and demographic trends using Zillow and census data.
 - Helps users identify investment opportunities, compare markets, and interpret real estate indicators visually and intuitively.
 - Simplifies complex real estate analysis through educational insights, dynamic charts, and custom filtering tools.
@@ -54,6 +55,7 @@
 **💡 Portfolio Connection:**
 - Demonstrates advanced Python skills by integrating data analysis, interactive visualizations, and real estate concepts into a deployed app.
 - Builds on previous projects by evolving from static data analysis to user-centered tools for real-world decision-making.
+- **Connection to Interests:** As a real estate student, this app was a way to dive deeper into metro-level housing data and build a tool that helps analyze growth potential, compare markets, and think through investment strategies in a more applied, visual way.
 ---
 📢 **Portfolio Update:** All projects outlined above are completed and accessible for users to explore!
 
