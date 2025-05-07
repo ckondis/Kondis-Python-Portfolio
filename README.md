@@ -17,7 +17,7 @@
 🧠 **NER spaCy App:** Uses spaCy to extract and visualize named entities from user-input text through a customizable NLP interface.
   - **Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/NERStreamlitApp
 
-🐶 **Introductory Streamlit App:** Builds a simple, filterable data table app to explore dog breed traits using Streamlit and CSV data.
+🐶 **Introductory Streamlit App:** Builds a filterable data table app to explore dog breed traits and information using Streamlit and CSV data.
   - **Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
 
 ---
