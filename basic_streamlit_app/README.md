@@ -24,6 +24,7 @@ To run the app locally on your device, follow these steps:
 ## Python Library Versions Used
 - **Streamlit:** 1.41.1
 - **Pandas:** 2.2.3
+- **Link to main.py:** https://github.com/ckondis/Kondis-Python-Portfolio/blob/main/basic_streamlit_app/main.py
 
 # 📊 App Features
 
