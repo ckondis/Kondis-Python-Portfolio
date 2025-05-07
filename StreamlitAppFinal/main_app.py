@@ -4,14 +4,14 @@ import re                     #Regular expressions (searchers for regular expres
 import plotly.express as px   #Imports plotly express library for additonal visualization methods
 
 #Loads datasets in from Data folder and assigns values
-df_demographics = pd.read_csv("StreamlitAppFinal/Data/us-cities-demographics.csv", delimiter=";") #Uploads demographic data by semicolon-seperated document
-df_for_sale_inventory = pd.read_csv("StreamlitAppFinal/Data/ForSaleInventory.csv") #Loads ForSaleInventory CSV
-df_home_value = pd.read_csv("StreamlitAppFinal/Data/HomeValues.csv") #Loads HomeValues CSV
-df_house_growth = pd.read_csv("StreamlitAppFinal/Data/HouseGrowth.csv") #Loads HouseGrowth CSV
-df_market_heat = pd.read_csv("StreamlitAppFinal/Data/Market_Heat_Index.csv") #Loads Market_Heat_Index CSV
-df_medianlistprice = pd.read_csv("StreamlitAppFinal/Data/MedianListPrice.csv") #Loads MedianListPrice CSV
-df_new_homeowner_income = pd.read_csv("StreamlitAppFinal/Data/NewHomeownerIncome.csv") #Loads NewHomeOwnerIncome CSV
-df_saletolist = pd.read_csv("StreamlitAppFinal/Data/SaletoListRatio.csv") #Loads saletoListRatio CSV
+df_demographics = pd.read_csv("StreamlitAppFinal/data/us-cities-demographics.csv", delimiter=";") #Uploads demographic data by semicolon-seperated document
+df_for_sale_inventory = pd.read_csv("StreamlitAppFinal/data/ForSaleInventory.csv") #Loads ForSaleInventory CSV
+df_home_value = pd.read_csv("StreamlitAppFinal/data/HomeValues.csv") #Loads HomeValues CSV
+df_house_growth = pd.read_csv("StreamlitAppFinal/data/HouseGrowth.csv") #Loads HouseGrowth CSV
+df_market_heat = pd.read_csv("StreamlitAppFinal/data/Market_Heat_Index.csv") #Loads Market_Heat_Index CSV
+df_medianlistprice = pd.read_csv("StreamlitAppFinal/data/MedianListPrice.csv") #Loads MedianListPrice CSV
+df_new_homeowner_income = pd.read_csv("StreamlitAppFinal/data/NewHomeownerIncome.csv") #Loads NewHomeOwnerIncome CSV
+df_saletolist = pd.read_csv("StreamlitAppFinal/data/SaletoListRatio.csv") #Loads saletoListRatio CSV
 
 
 st.sidebar.header("📍 Explore by Location") #Creates sidebar section title
