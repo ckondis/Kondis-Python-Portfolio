@@ -17,21 +17,8 @@
 🧠 **NER spaCy App:** Uses spaCy to extract and visualize named entities from user-input text through a customizable NLP interface.
   - **Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/NERStreamlitApp
 
-🐶 **Introductory Streamlit App:** Builds a filterable data table app to explore dog breed traits and information using Streamlit and CSV data.
-  - **Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/StreamlitAppFinal
-
 ---
-## 📈 Current Projects: 
-
-## Introductory Streamlit App:
-**Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/basic_streamlit_app
-
-**🔍 Purpose:**
-- This project uses Python and Streamlit, an open-source framework that turns Python scripts into interactive data apps. This project utilizes data from an CSV file containing information on dog breeds.
-- The app displays a data table of breed characteristics and includes interactive filters to help users explore the dataset in more detail.
-
-**💡 Portfolio Connection:**
-- Demonstrates knowledge in Streamlit app building, creating interactive data tables and filters, and developing user-friendly online applications using Python technical skills. 
+## 📈 Current Projects:  
 
 ## Tidy Data Project:
 **Link:** https://github.com/ckondis/Kondis-Python-Portfolio/tree/main/TidyData-Project
